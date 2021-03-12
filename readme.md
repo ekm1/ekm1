@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://mt.linkedin.com/in/migel-hoxha" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615554241~hmac=cd27e6225984e8c9128cc8d8a62000d8" alt="https://mt.linkedin.com/in/migel-hoxha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/migel-hoxha" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615554241~hmac=cd27e6225984e8c9128cc8d8a62000d8" alt="https://mt.linkedin.com/in/migel-hoxha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

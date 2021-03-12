@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekm1&label=Profile%20views&color=0e75b6&style=flat" alt="ekm1" /> </p>
 
+- 🌍 I'm residing in **Malta**
+
 - 🌱 I’m currently learning **Golang, WebAssembly**
 
 - 🔭 I’m currently working at **Betsson Group**

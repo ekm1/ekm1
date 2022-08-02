@@ -5,7 +5,7 @@
 
 - 🌍 I'm residing in **Malta**
 
-- 🌱 I’m currently learning **Golang, WebAssembly**
+- 🌱 I’m currently learning **Rust, Golang, WebAssembly**
 
 - 🔭 I’m currently working at **Betsson Group**
 

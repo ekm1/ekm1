@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, Golang, WebAssembly**
 
-- 🔭 I’m currently working at **Betsson Group**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
